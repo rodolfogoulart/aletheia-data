@@ -1,0 +1,12 @@
+[{
+  "version": 0,
+  "date": "21/05/2023",
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World",
+  "urldata":"https://api.gitrows.com/@github/rodolfogoulart/aletheia-data:main/sync.json"
+}
+]
