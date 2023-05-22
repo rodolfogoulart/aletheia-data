@@ -6,6 +6,7 @@
     "a": "b",
     "c": "d"
   },
-  "string": "Hello World"
+  "string": "Hello World",
+  "urldata":"https://api.gitrows.com/@github/rodolfogoulart/aletheia-data:main/sync.json"
 }
 ]
