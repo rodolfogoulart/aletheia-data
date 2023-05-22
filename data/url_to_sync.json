@@ -9,4 +9,15 @@
   "string": "Hello World",
   "urldata":"https://api.gitrows.com/@github/rodolfogoulart/aletheia-data:main/sync.json"
 }
+ {
+  "version": 1,
+  "date": "22/05/2023",
+  "number": 123456,
+  "object": {
+    "a": "R",
+    "c": "A"
+  },
+  "string": "Version 2 Teste",
+  "urldata":"https://api.gitrows.com/https://github.com/rodolfogoulart/aletheia-data/blob/main/data/url_to_sync.json"
+}
 ]
