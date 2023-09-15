@@ -1,0 +1,19 @@
+{
+    "bible":[{
+        "description": "Todas Bíblias",
+        "file": "dbAletheia-bible.sqlite"
+    }],
+    "commentary":[{
+        "description": "Todos Comentários",
+        "file": "dbAletheia-commentary.sqlite"
+    }],
+    "dictionary":[
+        {"description": "Todos Dicionários",
+        "file": "dbAletheia-dictionary.sqlite"}
+    ],
+    "lexico": [
+        {"description": "Lexico Strong",
+        "file": "dbAletheia-lexico.sqlite"}
+    ]
+
+}
