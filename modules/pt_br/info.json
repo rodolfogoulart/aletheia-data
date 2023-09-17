@@ -2,22 +2,27 @@
     "bible":[{
         "description": "Todas Bíblias",
         "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sg2p8kq7syuqvbutw81shh04v6juhhko&file_id=f_1308554466578",
-        "file": "dbAletheia-bible.sqlite"
+        "file": "dbAletheia-bible.sqlite",
+        "version": 0
     }],
     "commentary":[{
         "description": "Todos Comentários",
         "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=z8j6tf8plfqq2fisdb5bsopy5wxfstkr&file_id=f_1308570191015",
-        "file": "dbAletheia-commentary.sqlite"
+        "file": "dbAletheia-commentary.sqlite",
+        "version" : 0
     }],
     "dictionary":[
         {"description": "Todos Dicionários",
         "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5hswpraeyntvckj1kaj80me6ubpe0nik&file_id=f_1308569051643",
-        "file": "dbAletheia-dictionary.sqlite"}
+        "file": "dbAletheia-dictionary.sqlite",
+        "version": 0
+    }
     ],
     "lexico": [
         {"description": "Lexico Strong",
         "url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=xr6n52tb8xy2ascnvkl1xe79ipovw7no&file_id=f_1308546592441",
-        "file": "dbAletheia-lexico.sqlite"}
+        "file": "dbAletheia-lexico.sqlite",
+        "version": 0
+    }
     ]
-
 }

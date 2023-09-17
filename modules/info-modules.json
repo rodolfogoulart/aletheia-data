@@ -3,6 +3,7 @@
         "language": "pt_br",
         "name": "Portugês Brasil",
         "directory": "pt_br",
-        "urlInfo" : "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/modules/pt_br/info.json"
+        "urlInfo" : "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/modules/pt_br/info.json",
+        "version": 0
     }
 ]
