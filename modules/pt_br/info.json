@@ -1,7 +1,7 @@
 {
     "bible":[{
         "description": "Todas Bíblias",
-        "url": "https://data.terabox.com/file/b4adf2f0b25ea196e2451a0667957ccc?bkt=en-26dcfdb4e5ee1a49f6af80e1ed132d87831a3f792076f70fdffa1f8d686642f365b9aaa91d6bb0e1&fid=4400977027477-250528-974402918615330&time=1697479759&sign=FDTAXUGERLQlBHSKfWa-DCb740ccc5511e5e8fedcff06b081203-LsrEplWvV5myqnK6WN0TALpZqAc%3D&signbak=&to=140&size=243666944&sta_dx=243666944&sta_cs=0&sta_ft=sqlite&sta_ct=0&sta_mt=0&fm2=MH%2Ctky%2CAnywhere%2C%2C%2Cany&region=tky&ctime=1697479519&mtime=1697479519&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=243666944&vuk=4402336688533&iv=2&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-746f86c2f41bf89398f1ce9ac41d67d2c338a9e63480c4e1079f4839f039e44a7919e4091e3ceaee&sl=81723506&expires=1697508559&rt=sh&r=890500368&sh=1&vbdid=-&fin=dbAletheia-bible.sqlite&fn=dbAletheia-bible.sqlite&rtype=1&dp-logid=9010651850130955945&dp-callid=0.1&hps=1&tsl=15360&csl=15360&fsl=-1&csign=W63Lqej7mh1cpliJw776dX%2B7zrU%3D&so=0&ut=1&uter=4&serv=0&uc=3306545997&ti=e6e2f9d25109af0ede0687ea77dfd5a6d4fb88f33ecb56d3&adg=&reqlabel=250528_f_6b79d95af0ab25ebc24d34973007c2b7_-1_058d47b477e4690db1ced8cc47388f3f&ccn=US&by=themis",
+        "url": "https://archive.org/download/dbAletheia-bible/dbAletheia-bible.sqlite",
         "file": "dbAletheia-bible.sqlite",
         "version": 0
     }],
