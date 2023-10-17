@@ -1,7 +1,7 @@
 {
     "bible":[{
         "description": "Todas Bíblias",
-         "url": "https://archive.org/download/dbAletheia-bible/dbAletheia-bible.sqlite",
+         "url": "https://www.googleapis.com/drive/v3/files/128C2-tFq2McZ_sD02hcG-xE8TIvTr_qf?alt=media&key=AIzaSyDTCjzaPvdKpc_HD0QJjPOc10o7pfYQR-8",
          "urls": ["https://www.googleapis.com/drive/v3/files/128C2-tFq2McZ_sD02hcG-xE8TIvTr_qf?alt=media&key=AIzaSyDTCjzaPvdKpc_HD0QJjPOc10o7pfYQR-8", "https://archive.org/download/dbAletheia-bible/dbAletheia-bible.sqlite", "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sg2p8kq7syuqvbutw81shh04v6juhhko&file_id=f_1308554466578"],
         "file": "dbAletheia-bible.sqlite",
         "version": 0
