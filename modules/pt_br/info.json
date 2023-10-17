@@ -1,8 +1,8 @@
 {
     "bible":[{
         "description": "Todas Bíblias",
-         "url": "https://tinyurl.com/aletheiadbbible",
-         "urls": ["https://tinyurl.com/aletheiadbbible", "https://archive.org/download/dbAletheia-bible/dbAletheia-bible.sqlite", "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sg2p8kq7syuqvbutw81shh04v6juhhko&file_id=f_1308554466578"],
+         "url": "https://tinyurl.com/aletheiabibledatabase",
+         "urls": ["https://tinyurl.com/aletheiabibledatabase", "https://archive.org/download/dbAletheia-bible/dbAletheia-bible.sqlite", "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sg2p8kq7syuqvbutw81shh04v6juhhko&file_id=f_1308554466578"],
         "file": "dbAletheia-bible.sqlite",
         "version": 0
     }],
