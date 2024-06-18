@@ -1,8 +1,8 @@
-[
+data[
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_1.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_1.sqlite",
             "https://drive.google.com/file/d/19tDj_yPgh4VNJhkrHVyL7i-qk75DJweX/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_1.sqlite",
@@ -13,7 +13,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_2.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_2.sqlite",
             "https://drive.google.com/file/d/1w7NYoY6a-8ir0HWdlV8GVYvNbSMC7HIa/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_2.sqlite",
@@ -24,7 +24,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_3.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_3.sqlite",
             "https://drive.google.com/file/d/12IN12WgGTK59JeNjINm8pkO4-SGnNS3O/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_3.sqlite",
@@ -35,7 +35,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_4.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_4.sqlite",
             "https://drive.google.com/file/d/1iF2_XpDh9diUS7MSQ86xKLzl4I54VHnD/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_4.sqlite",
@@ -46,7 +46,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_5.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_5.sqlite",
             "https://drive.google.com/file/d/1qIHldCEeAt5kGx_LQA_7UAx4fdF4_adE/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_5.sqlite",
@@ -57,7 +57,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_6.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_6.sqlite",
             "https://drive.google.com/file/d/1_jN6UarsPFjFlKN9uTR5ZUg5FHPRecEa/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_6.sqlite",
@@ -68,7 +68,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_7.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_7.sqlite",
             "https://drive.google.com/file/d/1UpmqcaTlwhTUt82swz7fUDVH8QKPe03b/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_7.sqlite",
@@ -79,7 +79,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_8.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_8.sqlite",
             "https://drive.google.com/file/d/17cNU_XrDkIYL0rwL72LKJaelFUfyVESf/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_8.sqlite",
@@ -90,7 +90,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_9.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_9.sqlite",
             "https://drive.google.com/file/d/181nhCwljAQ6hFsSoBlfqu9G3kuRELAjr/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_9.sqlite",
@@ -101,7 +101,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_10.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_10.sqlite",
             "https://drive.google.com/file/d/1-6sjjCbdGwhtzG9PlY9rayJiffYYkcXJ/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_10.sqlite",
@@ -112,7 +112,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_11.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_11.sqlite",
             "https://drive.google.com/file/d/1r6q9_mG3IFjuBldY9Mt1JDH3ACrDiu2X/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_11.sqlite",
@@ -123,7 +123,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_12.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_12.sqlite",
             "https://drive.google.com/file/d/1ccdOeOgMZU7FixM8SVVxmAj_lVvlc1_H/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_12.sqlite",
@@ -134,7 +134,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_13.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_13.sqlite",
             "https://drive.google.com/file/d/15Hyhq9pfxx_nhbk2QQGsahmEQGjZDhtb/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_13.sqlite",
@@ -145,7 +145,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_14.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_14.sqlite",
             "https://drive.google.com/file/d/1Js566H9WfzEfr8QoyQTI658iRqdabzIe/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_14.sqlite",
@@ -156,7 +156,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_15.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_15.sqlite",
             "https://drive.google.com/file/d/1MWke6Ahm62QU4xazIpenkbjFGc2DP6Ou/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_15.sqlite",
@@ -167,7 +167,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_16.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_16.sqlite",
             "https://drive.google.com/file/d/195mjBQcqzgdihs8xmhU1Cn9nOIhHzMnE/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_16.sqlite",
@@ -178,7 +178,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_17.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_17.sqlite",
             "https://drive.google.com/file/d/1jzr9OqDzdv6zqon7SC3w6QpRE5HB5QYJ/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_17.sqlite",
@@ -189,7 +189,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_18.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_18.sqlite",
             "https://drive.google.com/file/d/1z0QNlOq0xDmXDOmgizqi7A1o3t69ExF1/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_18.sqlite",
@@ -200,7 +200,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_19.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_19.sqlite",
             "https://drive.google.com/file/d/1YJ7Ii2J_I7zx061GJUUsBxExqW4yXeeL/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_19.sqlite",
@@ -211,7 +211,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_20.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_20.sqlite",
             "https://drive.google.com/file/d/1QD_WWqneq31rhRC9x9bG-_IR9Na-G-3W/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_20.sqlite",
@@ -222,7 +222,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_21.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_21.sqlite",
             "https://drive.google.com/file/d/16R86ijjy8E4nRTy7TBwKi7BDYkZcSbIx/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_21.sqlite",
@@ -233,7 +233,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_22.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_22.sqlite",
             "https://drive.google.com/file/d/15llDW8v5dqSfe_rK8UhQb1RQeUtgYzrR/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_22.sqlite",
@@ -244,7 +244,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_23.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_23.sqlite",
             "https://drive.google.com/file/d/1LVVaIq08Dd17tix1EdgroZ8-1e0F48ZU/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_23.sqlite",
@@ -255,7 +255,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_24.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_24.sqlite",
             "https://drive.google.com/file/d/1YYPfDLrohVqJCpQSXhRCwirhhXPOjiBy/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_24.sqlite",
@@ -266,7 +266,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_25.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_25.sqlite",
             "https://drive.google.com/file/d/1wwp_Y6Dm5N4-xVJePbGi4FM55dRMllVw/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_25.sqlite",
@@ -277,7 +277,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_26.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_26.sqlite",
             "https://drive.google.com/file/d/13mswryQAHmbzoXEm-XHXPrNBFynUm4N9/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_26.sqlite",
@@ -288,7 +288,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_27.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_27.sqlite",
             "https://drive.google.com/file/d/1e8yDRqpgN5nLw9HnoiLosGmTaR2cyV4B/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_27.sqlite",
@@ -299,7 +299,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_28.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_28.sqlite",
             "https://drive.google.com/file/d/1zGooEZ55AzoBadEjiBh9Gp6wXep4USGZ/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_28.sqlite",
@@ -310,7 +310,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_29.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_29.sqlite",
             "https://drive.google.com/file/d/1RuZkt9Z6YwjeU16QTtKP0uzmosPB95-1/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_29.sqlite",
@@ -321,7 +321,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_30.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_30.sqlite",
             "https://drive.google.com/file/d/1LkYyA5BHyKcRkZwgIDvWn7Bvsf7A-yec/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_30.sqlite",
@@ -332,7 +332,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_31.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_31.sqlite",
             "https://drive.google.com/file/d/1JzijqmacmMYtAws6oWfK5LNOGEMtK-f0/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_31.sqlite",
@@ -343,7 +343,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_32.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_32.sqlite",
             "https://drive.google.com/file/d/1qbAXXoux0xhB5B8c_Kfvmrf-wZSp-c4P/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_32.sqlite",
@@ -354,7 +354,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_33.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_33.sqlite",
             "https://drive.google.com/file/d/1eL0HocwFIKJ1K0pov-jZUJb8xUZFgLmo/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_33.sqlite",
@@ -365,7 +365,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_34.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_34.sqlite",
             "https://drive.google.com/file/d/1ZwVB4vQyf-p7YAa7i_6P20ze_ZiSY7el/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_34.sqlite",
@@ -376,7 +376,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_35.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_35.sqlite",
             "https://drive.google.com/file/d/1s3iKRf6I2RY00WbG4IMPd_0yZUFMY9lF/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_35.sqlite",
@@ -387,7 +387,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_36.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_36.sqlite",
             "https://drive.google.com/file/d/1Cn0N9Hk_baU6OSIHGREPo1FusbLyYSvM/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_36.sqlite",
@@ -398,7 +398,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_37.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_37.sqlite",
             "https://drive.google.com/file/d/1PSAfXrot9b3EyBXq9XxOUe-iyXrer9vo/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_37.sqlite",
@@ -409,7 +409,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_38.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_38.sqlite",
             "https://drive.google.com/file/d/1spnt_bdQdwBbRICKMcrvCp2_qK3o1h8Q/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_38.sqlite",
@@ -420,7 +420,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_39.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_39.sqlite",
             "https://drive.google.com/file/d/1FrO3pf9jhpiPKtig1HvzLbOLRvq_K9i2/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_39.sqlite",
@@ -431,7 +431,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_40.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_40.sqlite",
             "https://drive.google.com/file/d/1sYQyptYisZR-F0vFXLBekWyH6lugQaHd/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_40.sqlite",
@@ -442,7 +442,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_41.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_41.sqlite",
             "https://drive.google.com/file/d/1eOXl5uv6L5mHheVdF2gX0qHaJXDTnNSP/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_41.sqlite",
@@ -453,7 +453,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_42.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_42.sqlite",
             "https://drive.google.com/file/d/1uJqknPq-yMGBT4iKpyhKDS7TSJDeQMT_/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_42.sqlite",
@@ -464,7 +464,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_43.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_43.sqlite",
             "https://drive.google.com/file/d/1fppPX-46I5Eyei5UaqACr0KJ8zAjvK2V/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_43.sqlite",
@@ -475,7 +475,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_44.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_44.sqlite",
             "https://drive.google.com/file/d/1C87FioAp9rQq494GENqOnAUiLItlSLp_/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_44.sqlite",
@@ -486,7 +486,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_45.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_45.sqlite",
             "https://drive.google.com/file/d/1pF03RQdieQHsCThixOvMzq2kwBopinJS/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_45.sqlite",
@@ -497,7 +497,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_46.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_46.sqlite",
             "https://drive.google.com/file/d/14q6jqmvYKoQG0x8V-cuj-iLVY-dZTsLL/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_46.sqlite",
@@ -508,7 +508,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_47.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_47.sqlite",
             "https://drive.google.com/file/d/1fmAnetoly3coRul44R-45hYDhsLZY_WU/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_47.sqlite",
@@ -519,7 +519,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_48.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_48.sqlite",
             "https://drive.google.com/file/d/1lLmBpaVsvAF1hILivg3_MMUBYHlteP7a/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_48.sqlite",
@@ -530,7 +530,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_49.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_49.sqlite",
             "https://drive.google.com/file/d/123MLsBk1FGJPF4pE3OTrBZASXPMauq6u/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_49.sqlite",
@@ -541,7 +541,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_50.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_50.sqlite",
             "https://drive.google.com/file/d/1Fku79-VKU0G-qrQQL9Sx8ngzCBnldfZ1/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_50.sqlite",
@@ -552,7 +552,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_51.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_51.sqlite",
             "https://drive.google.com/file/d/10FZS73TtgkHwiu9ST9dEwRqfY2iXxe0j/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_51.sqlite",
@@ -563,7 +563,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_52.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_52.sqlite",
             "https://drive.google.com/file/d/1xBv_m2OEhWJqRKiaIOywY3BdZmgogH6W/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_52.sqlite",
@@ -574,7 +574,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_53.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_53.sqlite",
             "https://drive.google.com/file/d/1pAJAbalArgXwyHXQpGfokueFHxHS84yE/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_53.sqlite",
@@ -585,7 +585,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_54.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_54.sqlite",
             "https://drive.google.com/file/d/1wXuoB-aCZg1aNMMhCODya8C-NHlR5h9V/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_54.sqlite",
@@ -596,7 +596,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_55.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_55.sqlite",
             "https://drive.google.com/file/d/1mrWGREm8HSze5QkKbM4GArIj8PnYkb6H/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_55.sqlite",
@@ -607,7 +607,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_56.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_56.sqlite",
             "https://drive.google.com/file/d/1vsUm8hB3k5BGihglr4MbVJ0DObpG-GLt/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_56.sqlite",
@@ -618,7 +618,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_57.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_57.sqlite",
             "https://drive.google.com/file/d/15ui-4g6eJeBzlaQ4OBMw3P4L0MzIUp-K/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_57.sqlite",
@@ -629,7 +629,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_58.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_58.sqlite",
             "https://drive.google.com/file/d/17HS93EbW7L8vEy9pEvh4gbSjlQVdsMcA/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_58.sqlite",
@@ -640,7 +640,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_59.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_59.sqlite",
             "https://drive.google.com/file/d/1tTRluAF8eEWuVbnOJXm1URybtHmChBVC/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_59.sqlite",
@@ -651,7 +651,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_60.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_60.sqlite",
             "https://drive.google.com/file/d/1Tti1ldeA4EXX9M6R4SsmUhdJ6lx0H3aj/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_60.sqlite",
@@ -662,7 +662,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_61.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_61.sqlite",
             "https://drive.google.com/file/d/1KU8qMREA2cTJJldzPuMnsDWVs9Q5mOxo/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_61.sqlite",
@@ -673,7 +673,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_62.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_62.sqlite",
             "https://drive.google.com/file/d/1KUuT7HuXeV25gTcrpzZaiPErIBWwjwGN/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_62.sqlite",
@@ -684,7 +684,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_63.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_63.sqlite",
             "https://drive.google.com/file/d/1L27aMNiA5hZMN86xXkek1z3b-BGHxtXX/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_63.sqlite",
@@ -695,7 +695,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_64.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_64.sqlite",
             "https://drive.google.com/file/d/1YW5lHazbYEz8BKqN10lZZ-PbkMG7BjLk/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_64.sqlite",
@@ -706,7 +706,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_65.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_65.sqlite",
             "https://drive.google.com/file/d/1EwfgCzI35zcB0urWyZ2usoV_Apt_Hnqq/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_65.sqlite",
@@ -717,7 +717,7 @@
     {
         "version": 0,
         "url": [
-            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/sql/hotfix_v_0d_66.sqlite",
+            "https://raw.githubusercontent.com/rodolfogoulart/aletheia-data/main/hotfix/version/v0/script/hotfix_v_0d_66.sqlite",
             "https://drive.google.com/file/d/1pDLtb9iFikoJRv8baQ0GDgXHB7tXXncq/view?usp=drive_link"
         ],
         "fileName": "hotfix_v_0d_66.sqlite",
