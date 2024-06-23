@@ -16,6 +16,7 @@
     "dictionary":[
         {"description": "Todos Dicionários",
         "url": "https://drive.google.com/uc?export=download&id=1dwYSUfJwzpWepEsMTPdN-YdR6hx8kggP",
+            "urls": ["https://tinyurl.com/dbAletheia-dictionary"],
         "file": "dbAletheia-dictionary.sqlite",
         "version": 0
     }
